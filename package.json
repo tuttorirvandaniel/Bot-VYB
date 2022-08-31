@@ -30,7 +30,7 @@
     "gtts": "^0.2.1",
     "insert": "^1.0.1",
     "mathjs": "^7.2.0",
-    "moment-timezone": "^0.5.31",
+    "moment-timezone": "^0.5.35",
     "msg": "^1.0.0",
     "nana-api": "^1.1.2",
     "needle": "^2.5.2",
